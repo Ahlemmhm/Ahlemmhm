@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahlemmhm" alt="ahlemmhm" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mhamdi-ahlem-625289202/](https://www.linkedin.com/in/mhamdi-ahlem-625289202/)
 
-- 💬 Ask me about **Angular, Java**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **ahlem.mhamdi@esprit.tn**
 
