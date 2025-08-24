@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahlem</h1>
-<h3 align="center">Software engineering student from Tunisia</h3>
+<h3 align="center">Data Scientist Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahlemmhm&label=Profile%20views&color=0e75b6&style=flat" alt="ahlemmhm" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mhamdi-ahlem-625289202/](https://www.linkedin.com/in/mhamdi-ahlem-625289202/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mhamdi-ahlem/](https://www.linkedin.com/in/mhamdi-ahlem/)
 
 - 💬 Ask me about **Data Science**
 
