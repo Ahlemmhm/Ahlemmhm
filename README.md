@@ -1,34 +1,125 @@
-<h1 align="center">Hi 👋, I'm Ahlem</h1>
-<h3 align="center">Data Scientist Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahlemmhm&label=Profile%20views&color=0e75b6&style=flat" alt="ahlemmhm" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahlemmhm" alt="ahlemmhm" /></a> </p>
-
-- 🌱 I’m currently learning **DevOps**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mhamdi-ahlem/](https://www.linkedin.com/in/mhamdi-ahlem/)
-
-- 💬 Ask me about **Data Science**
-
-- 📫 How to reach me **ahlem.mhamdi@esprit.tn**
-
-- ⚡ Fun fact **I am a singer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ahlemmhm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahlemmhm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mhamdi ahlem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhamdi ahlem" height="30" width="40" /></a>
-<a href="https://fb.com/ahlem m'hamdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahlem m'hamdi" height="30" width="40" /></a>
-<a href="https://instagram.com/ahlemmhamdi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahlemmhamdi2" height="30" width="40" /></a>
-<a href="https://discord.gg/dreams294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dreams294" height="30" width="40" /></a>
+<!-- HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&center=true&vCenter=true&width=800&lines=Hi%F0%9F%91%8B%2C+I'm+Ahlem+Mhamdi;Data+Scientist+Engineer+%E2%80%A2+NLP%2FCV+%E2%80%A2+MLOps;I+build+practical+AI+that+ships" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:ahlem.mhamdi@esprit.tn"><img alt="Email"
+    src="https://img.shields.io/badge/Email-ahlem.mhamdi%40esprit.tn-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mhamdi-ahlem/"><img alt="LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img alt="Open to work"
+    src="https://img.shields.io/badge/Open_to-Internship%20%7C%20Working%20Student-06d6a0?style=for-the-badge">
+  <img alt="Visitors"
+    src="https://komarev.com/ghpvc/?username=Ahlemmhm&style=for-the-badge&color=9b59b6">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahlemmhm&show_icons=true&locale=en&layout=compact" alt="ahlemmhm" /></p>
+<p align="center">
+  <b>Data Scientist Engineer · NLP/CV · MLOps</b><br/>
+  Turning notebooks into real apps: RAG, summarizers, classic ML, a pinch of DevOps.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahlemmhm&show_icons=true&locale=en" alt="ahlemmhm" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlemmhm&" alt="ahlemmhm" /></p>
+### 🔭 What I’m working on (Now)
+- **Smart Interview Summarizer** — topic clustering + RAG; exports clean reports (MD/PDF).
+- **AI Personality Reader (AR/FR/EN/DE)** — multilingual classifier with feedback loop.
+- **Refugee & Migration Pattern Analysis** — UNHCR/IOM data · GIS + clustering + time-series.
+
+### 🧪 Selected Work (Past)
+- **Lung Cancer Detection System** — CNN pipeline on chest images + LSTM helper chatbot.
+- **Sentiment Analysis (RoBERTa + PEFT)** — ~94.6% on IMDb-style data.
+- **DevOps CI/CD for ML** — Jenkins/GitHub Actions + Docker, SonarQube, Nexus, Prometheus/Grafana.
+- **CV Matching (Capgemini, 2024)** — Django + NLP (spaCy/Scikit-learn).
+- **Profit Forecasting (Aura, 2023)** — ARIMA/SARIMA baselines.
+- **E-commerce App (CMS PLUS, 2022)** — Angular · .NET · MongoDB.
+
+---
+
+## 📌 Featured Projects
+<!-- Replace repo links with your actual repos if names differ -->
+<table>
+  <tr>
+    <td width="50%">
+      <h4>📝 Smart Interview Summarizer</h4>
+      <p>RAG + topic clustering → writer-ready summaries & articles.</p>
+      <p><i>Stack:</i> Python, LangChain, Transformers, FastAPI/Streamlit</p>
+      <a href="https://github.com/Ahlemmhm/smart-interview-summarizer">Repo</a>
+    </td>
+    <td width="50%">
+      <h4🧠>AI Personality Reader (Tounsi/FR/EN)</h4>
+      <p>Multilingual text classifier with user feedback loop.</p>
+      <p><i>Stack:</i> Python, sklearn/Transformers, Streamlit</p>
+      <a href="https://github.com/Ahlemmhm/ai-personality-reader">Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🌍 Refugee & Migration Analytics</h4>
+      <p>UNHCR/IOM data · GIS + clustering + time-series dashboards.</p>
+      <p><i>Stack:</i> Python, GeoPandas, scikit-learn, Plotly</p>
+      <a href="https://github.com/Ahlemmhm/refugee-migration-analytics">Repo</a>
+    </td>
+    <td width="50%">
+      <h4>🩺 Lung Cancer Detection (CNN)</h4>
+      <p>CNN pipeline on chest images + helper chatbot for guidance.</p>
+      <p><i>Stack:</i> PyTorch, OpenCV, Gradio/Streamlit</p>
+      <a href="https://github.com/Ahlemmhm/lung-cancer-detection-cnn">Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🎬 Sentiment — RoBERTa + PEFT</h4>
+      <p>Efficient fine-tuning; ~94.6% accuracy on movie reviews.</p>
+      <p><i>Stack:</i> Transformers, PEFT, Datasets</p>
+      <a href="https://github.com/Ahlemmhm/sentiment-roberta-peft">Repo</a>
+    </td>
+    <td width="50%">
+      <h4>🚀 DevOps ML CI/CD</h4>
+      <p>Automated tests, code quality, and containerized deploys.</p>
+      <p><i>Stack:</i> Jenkins, GitHub Actions, Docker, SonarQube</p>
+      <a href="https://github.com/Ahlemmhm/devops-ml-cicd">Repo</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
+</p>
+<details>
+  <summary><b>Currently learning</b></summary>
+  BigQuery · DBT · Looker Studio · Metabase · SQL best practices · German 🇩🇪
+</details>
+
+---
+
+## 📈 Stats (auto)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ahlemmhm&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahlemmhm&layout=compact&hide_title=true&langs_count=8&theme=default" />
+</p>
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=Ahlemmhm&theme=default&hide_border=false" />
+</p>
+
+---
+
+## 💬 Reach me
+- **Email:** ahlem.mhamdi@esprit.tn  
+- **LinkedIn:** https://www.linkedin.com/in/mhamdi-ahlem/
+
+<sub>🎵 Fun fact: I’m a singer.</sub>
